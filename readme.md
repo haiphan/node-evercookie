@@ -1,5 +1,5 @@
 # Evercookie Middleware for Connect/Express JS
-
+#hp edit
 [![Build Status](https://travis-ci.org/truongsinh/node-evercookie.png?branch=master)](https://travis-ci.org/truongsinh/node-evercookie)
 
 [Express](http://expressjs.com) is a sinatra inspired web development framework for node.js, insanely fast, flexible, and simple.
